@@ -1,0 +1,14 @@
+{
+  "name": "jewelrender-image-combiner",
+  "version": "1.0.0",
+  "main": "index.cjs",
+  "scripts": {
+    "start": "node index.cjs"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "canvas": "^2.11.2",
+    "node-fetch": "^2.7.0"
+  }
+}
